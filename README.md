@@ -20,7 +20,7 @@ PROS CLI can be installed directly from source with the following prerequisites:
 Clone this repository, then run `pip install -e <dir>`. Pip will install all the dependencies necessary.
 
 ## About this project
-Here's a quick breakdown of the packages involved in this project:
+Here is a quick breakdown of the packages involved in this project:
 
 - `pros.cli`: responsible for parsing arguments and running requested command
 - `pros.common.ui`: provides user interface functions used throughout the PROS CLI (such as logging facilities, machine-readable output)
